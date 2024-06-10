@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NewApp</string>
+    <string name="title_activity_dash_board_view">DashBoardView</string>
+</resources>
